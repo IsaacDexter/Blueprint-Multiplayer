@@ -1,0 +1,1817 @@
+﻿Log file open, 12/11/21 22:23:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BlueprintMultiplayer
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.228197
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.51
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=zakyd -epicuserid=e5ead79045e949fba83f6bc3f8ed6340 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.11-22.23.29:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.11-22.23.29:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.11-22.23.29:223][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.11-22.23.29:228][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:228][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.11-22.23.29:228][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.11-22.23.29:228][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:228][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.11-22.23.29:228][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:228][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.11-22.23.29:229][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.11-22.23.29:230][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.11-22.23.29:230][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.11-22.23.29:230][  0]LogHAL: Display: Platform has ~ 16 GB [17102614528 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.11-22.23.29:230][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.11-22.23.29:230][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.11-22.23.29:230][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.11-22.23.29:231][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.11-22.23.29:232][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.11-22.23.29:232][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Engine.ini]
+[2021.12.11-22.23.29:232][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Config/Windows/Editor.ini]
+[2021.12.11-22.23.29:232][  0]LogInit: Computer: DESKTOP-93NAPLP
+[2021.12.11-22.23.29:232][  0]LogInit: User: Isaac
+[2021.12.11-22.23.29:232][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.12.11-22.23.29:232][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.11-22.23.29:232][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.12.11-22.23.29:232][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.11-22.23.29:232][  0]LogMemory: Process Physical Memory: 146.46 MB used, 146.46 MB peak
+[2021.12.11-22.23.29:232][  0]LogMemory: Process Virtual Memory: 112.13 MB used, 112.13 MB peak
+[2021.12.11-22.23.29:232][  0]LogMemory: Physical Memory: 7006.86 MB used,  9303.46 MB free, 16310.32 MB total
+[2021.12.11-22.23.29:232][  0]LogMemory: Virtual Memory: 134208928.00 MB used,  8801.20 MB free, 134217728.00 MB total
+[2021.12.11-22.23.29:236][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.11-22.23.29:271][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.11-22.23.29:272][  0]LogInit: Using OS detected language (en-US).
+[2021.12.11-22.23.29:272][  0]LogInit: Using OS detected locale (en-GB).
+[2021.12.11-22.23.29:276][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.11-22.23.29:479][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.11-22.23.29:497][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.11-22.23.29:511][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.11-22.23.29:511][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.11-22.23.29:627][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.11-22.23.29:629][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.11-22.23.29:629][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.11-22.23.29:629][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.11-22.23.29:629][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.11-22.23.29:722][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2021.12.11-22.23.29:722][  0]LogD3D11RHI:       5991/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.11-22.23.29:724][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.11-22.23.29:724][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.11-22.23.29:724][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.11-22.23.29:734][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.11-22.23.29:734][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.11-22.23.29:734][  0]LogWindows: EnumDisplayDevices:
+[2021.12.11-22.23.29:734][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2021.12.11-22.23.29:734][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2021.12.11-22.23.29:735][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2021.12.11-22.23.29:735][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2021.12.11-22.23.29:735][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.12.11-22.23.29:735][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2021.12.11-22.23.29:735][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.12.11-22.23.29:735][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.12.11-22.23.29:735][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.12.11-22.23.29:797][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.11-22.23.29:797][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.11-22.23.29:797][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.11-22.23.29:811][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.11-22.23.29:850][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.11-22.23.30:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.11-22.23.30:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.11-22.23.30:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.11-22.23.30:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.11-22.23.30:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.11-22.23.30:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.11-22.23.30:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.11-22.23.30:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.11-22.23.30:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.11-22.23.30:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.11-22.23.30:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.11-22.23.30:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.11-22.23.30:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.11-22.23.30:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.11-22.23.30:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.11-22.23.30:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.11-22.23.30:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.11-22.23.30:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.11-22.23.30:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.11-22.23.30:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.11-22.23.30:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.11-22.23.30:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.11-22.23.30:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.11-22.23.30:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.11-22.23.30:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.11-22.23.30:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.11-22.23.30:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.11-22.23.30:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.11-22.23.30:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.11-22.23.30:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.11-22.23.30:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.11-22.23.30:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.11-22.23.30:272][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.11-22.23.30:278][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.11-22.23.30:303][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.11-22.23.30:332][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.11-22.23.30:332][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (E:/UnrealProjects/BlueprintMultiplayer 4.27/Intermediate/Shaders/WorkingDirectory/22072/).
+[2021.12.11-22.23.30:333][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Isaac/AppData/Local/Temp/UnrealShaderWorkingDir/27034C594454FB8CF6F76C9ED2D13EE3/'.
+[2021.12.11-22.23.30:333][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.11-22.23.30:333][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.11-22.23.30:333][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.11-22.23.31:046][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.11-22.23.31:110][  0]LogDerivedDataCache: Loaded boot cache 0.06s 95MB C:/Users/Isaac/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.11-22.23.31:110][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Isaac/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.11-22.23.31:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UnrealProjects/BlueprintMultiplayer 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.11-22.23.31:111][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.11-22.23.31:111][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UnrealProjects/BlueprintMultiplayer 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.11-22.23.31:111][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.11-22.23.31:126][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.11-22.23.31:126][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.11-22.23.31:126][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.11-22.23.31:133][  0]LogDerivedDataCache: Speed tests for C:/Users/Isaac/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.12.11-22.23.31:133][  0]LogDerivedDataCache: Display: Performance to C:/Users/Isaac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=357.59MBs, RandomWriteSpeed=238.34MBs. Assigned SpeedClass 'Local'
+[2021.12.11-22.23.31:133][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Isaac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.11-22.23.31:134][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.11-22.23.31:134][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.11-22.23.31:177][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.11-22.23.31:177][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.11-22.23.31:198][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.12.11-22.23.31:411][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.11-22.23.31:411][  0]LogInit: Active device profile: [0000021A1E867300][0000021A124D0B80 49] Windows
+[2021.12.11-22.23.31:411][  0]LogInit: Profiles: [0000021A1E867300][0000021A124D0B80 49] Windows, [0000021A1E830F00][0000021A124D8D00 49] WindowsNoEditor, [0000021A1E864F00][0000021A124DCE80 49] WindowsServer, [0000021A1E832A00][0000021A124E1000 49] WindowsClient, [0000021A1E866900][0000021A124E5180 49] IOS, [0000021A1E831900][0000021A124E9300 49] iPadAir, [0000021A1E865800][0000021A1D8DB480 49] iPadAir2, [0000021A1E7E3800][0000021A1D8E3740 49] IPadPro, [0000021A1E7E3900][0000021A1D8DF780 49] iPadAir3, [0000021A1E866200][0000021A1D8E7900 49] iPadAir4, [0000021A1E7E1400][0000021A1D8EBA80 49] iPadMini2, [0000021A1E867C00][0000021A1D8EFC00 49] iPadMini3, [0000021A1E7E2400][0000021A1D8F2200 49] iPadMini4, [0000021A1E865100][0000021A1D8F6380 49] iPadMini5, [0000021A1E82B100][0000021A1D8FE640 49] iPhone6, [0000021A1E82B200][0000021A1D8FA680 49] iPodTouch6, [0000021A1E7E0600][0000021A1D9028C0 49] iPhone7, [0000021A1E7E0400][0000021A124D4900 49] iPodTouch7, [0000021A1E829300][0000021A1D906A40 49] iPhone5S, [0000021A1E7E0D00][0000021A1D90AB80 49] iPhone6Plus, [0000021A1E82A500][0000021A1D912D00 49] iPhone6S, [0000021A1E7E3D00][0000021A1D916E80 49] iPhone6SPlus, [0000021A1E82BA00][0000021A1D91B000 49] iPhone7Plus, [0000021A1E7E1900][0000021A1D91F180 49] iPhoneSE, [0000021A1E828900][0000021A1D923300 49] iPhone8, [0000021A1E7E2600][0000021A1D927480 49] iPhone8Plus, [0000021A1E82A300][0000021A1D92B600 49] iPhoneX, [0000021A1E7E2D00][0000021A1D92F780 49] iPhoneXS, [0000021A1E82BB00][0000021A1D933900 49] iPhoneXSMax, [0000021A1E7E2C00][0000021A1D937A80 49] iPhoneXR, [0000021A1E82B300][0000021A1D93BC00 49] iPhone11, [0000021A1E7E3400][0000021A1D93E200 49] iPhone11Pro, [0000021A1E829500][0000021A1D942380 49] iPhone11ProMax, [0000021A1E7E0E00][0000021A1D946500 49] iPhoneSE2, [0000021A1E829200][0000021A1D94A680 49] iPhone12Mini, [0000021A1E7E1B00][0000021A1D94E800 49] iPhone12, [0000021A1E829600][0000021A1D90E940 49] iPhone12Pro, [0000021A1E7E0800][0000021A1D952A80 49] iPhone12ProMax, [0000021A1E828C00][0000021A1D956BC0 49] iPadPro105, [0000021A1E7E3E00][0000021A1D95AD00 49] iPadPro129, [0000021A1E829100][0000021A1D962E80 49] iPadPro97, [0000021A1E7E2A00][0000021A1D967000 49] iPadPro2_129, [0000021A1E82A200][0000021A1D96B180 49] iPad5, [0000021A1E7E0900][0000021A1D96F300 49] iPad6, [0000021A1E829800][0000021A1D973480 49] iPad7, [0000021A1E7E1C00][0000021A1D977600 49] iPad8, [0000021A1E829A00][0000021A1D97B780 49] iPadPro11, [0000021A1E7E2500][0000021A1D97F900 49] iPadPro2_11, [0000021A1E82AF00][0000021A1D983A80 49] iPadPro3_129, [0000021A1E7E1700][0000021A1D987C00 49] iPadPro4_129, [0000021A1E82A900][0000021A1D98A200 49] AppleTV, [0000021A1E7E3F00][0000021A1D98E380 49] AppleTV4K, [0000021A1E828B00][0000021A1D992500 49] TVOS, [0000021A1E7E0A00][0000021A1D996680 49] Mac, [0000021A1E829E00][0000021A1D99A800 49] MacClient, [0000021A1E7E3100][0000021A1D99E980 49] MacNoEditor, [0000021A1E82BD00][0000021A1D9A2B00 49] MacServer, [0000021A1E7E0100][0000021A1D95EC40 49] Linux, [0000021A1E829D00][0000021A1D9A6D80 49] LinuxAArch64, [0000021A1E7E0F00][0000021A1D9AAEC0 49] LinuxNoEditor, [0000021A1E832500][0000021A0F573040 49] LinuxAArch64NoEditor, [0000021A1E8B6300][0000021A0F5771C0 49] LinuxClient, [0000021A1E831A00][0000021A0F57B340 49] LinuxAArch64Client, [0000021A1E8B5B00][0000021A0F57F4C0 49] LinuxServer, [0000021A1E832F00][0000021A0F583640 49] LinuxAArch64Server, [0000021A1E8B4300][0000021A0F5877C0 49] Android, [0000021A1E832300][0000021A0F58B940 49] Android_Low, [0000021A1E8B5C00][0000021A0F58FAC0 49] Android_Mid, [0000021A1E831700][0000021A0F5920C0 49] Android_High, [0000021A1E8B4800][0000021A0F596240 49] Android_Default, [0000021A1E833200][0000021A1EAD03C0 49] Android_Adreno4xx, [0000021A1E8B5700][0000021A1EAD4540 49] Android_Adreno5xx_Low, [0000021A1E832800][0000021A1EAD86C0 49] Android_Adreno5xx, [0000021A1E8B6100][0000021A1EADC840 49] Android_Adreno6xx, [0000021A1E830D00][0000021A1EAE09C0 49] Android_Adreno6xx_Vulkan, [0000021A1E8B6400][0000021A1EAE4B40 49] Android_Mali_T6xx, [0000021A1E832400][0000021A1EAE8CC0 49] Android_Mali_T7xx, [0000021A1E8B5F00][0000021A0F56EE00 49] Android_Mali_T8xx, [0000021A1E830500][0000021A1EAECF40 49] Android_Mali_G71, [0000021A1E8B6500][0000021A1EAF1080 49] Android_Mali_G72, [0000021A1E7E0300][0000021A1EB1D1C0 49] Android_Mali_G72_Vulkan, [0000021A1E828F00][0000021A1EB4D340 49] Android_Mali_G76, [0000021A1E7E2000][0000021A1EB514C0 49] Android_Mali_G76_Vulkan, [0000021A1E828D00][0000021A1EB55640 49] Android_Mali_G77, [0000021A1E7E2900][0000021A1EB597C0 49] Android_Mali_G77_Vulkan, [0000021A1E828700][0000021A1EB5D940 49] Android_Mali_G78, [0000021A1E7E0B00][0000021A1EB61AC0 49] Android_Mali_G78_Vulkan, [0000021A1E8B4F00][0000021A1EB6C0C0 49] Android_Mali_G710, [0000021A1E7E0500][0000021A1EB78240 49] Android_Mali_G710_Vulkan, [0000021A1E8B4100][0000021A1EB7C3C0 49] Android_Vulkan_SM5, [0000021A1E7E0700][0000021A1EB80540 49] Android_PowerVR_G6xxx, [0000021A1E8B4400][0000021A1EB846C0 49] Android_PowerVR_GT7xxx, [0000021A1E7E2E00][0000021A1EB88840 49] Android_PowerVR_GE8xxx, [0000021A1E8B5200][0000021A1EB8C9C0 49] Android_PowerVR_GM9xxx, [0000021A1E7E3300][0000021A1EB90B40 49] Android_PowerVR_GM9xxx_Vulkan, [0000021A1E8B5500][0000021A1EB94CC0 49] Android_TegraK1, [0000021A1E7E1E00][0000021A1EB98E40 49] Android_Unknown_Vulkan, [0000021A1E8B4200][0000021A1EB48F80 49] Lumin, [0000021A1E7E1200][0000021A1EB9D0C0 49] Lumin_Desktop, [0000021A1E8B4700][0000021A1EBA1200 49] HoloLens, 
+[2021.12.11-22.23.31:618][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.11-22.23.31:618][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.11-22.23.31:618][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.11-22.23.31:618][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.11-22.23.31:618][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.11-22.23.31:632][  0]LogNetVersion: BlueprintMultiplayer 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 855244645)
+[2021.12.11-22.23.31:992][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.11-22.23.32:051][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.11-22.23.32:057][  0]LogUObjectArray: 17186 objects as part of root set at end of initial load.
+[2021.12.11-22.23.32:057][  0]LogUObjectAllocator: 4313760 out of 0 bytes used by permanent object pool.
+[2021.12.11-22.23.32:057][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.11-22.23.32:678][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A0609B5544B9729159B6088850FDAE97 | Instance: BBF94F16487AE9C30F874A9D97542C3B (DESKTOP-93NAPLP-22072).
+[2021.12.11-22.23.32:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.12.11-22.23.32:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.12.11-22.23.32:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.12.11-22.23.32:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.12.11-22.23.32:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.12.11-22.23.32:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.12.11-22.23.32:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.12.11-22.23.32:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.12.11-22.23.32:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.12.11-22.23.32:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.12.11-22.23.32:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.12.11-22.23.32:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.12.11-22.23.32:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.12.11-22.23.32:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.12.11-22.23.32:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.12.11-22.23.32:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.12.11-22.23.32:709][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.32:709][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.32:710][  0]LogPython: Using Python 3.7.7
+[2021.12.11-22.23.33:383][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.11-22.23.33:387][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.11-22.23.33:604][  0]SourceControl: Source control is disabled
+[2021.12.11-22.23.33:604][  0]SourceControl: Source control is disabled
+[2021.12.11-22.23.33:607][  0]SourceControl: Source control is disabled
+[2021.12.11-22.23.33:610][  0]SourceControl: Source control is disabled
+[2021.12.11-22.23.33:612][  0]SourceControl: Source control is disabled
+[2021.12.11-22.23.33:707][  0]LogUProjectInfo: Found projects:
+[2021.12.11-22.23.33:752][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.11-22.23.33:793][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.11-22.23.33:813][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.11-22.23.33:813][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.11-22.23.33:919][  0]LogCollectionManager: Loaded 0 collections in 0.001626 seconds
+[2021.12.11-22.23.34:752][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/BlueprintMultiplayer 4.27/Saved/Collections/' took 0.00s
+[2021.12.11-22.23.34:752][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/BlueprintMultiplayer 4.27/Content/Developers/Isaac/Collections/' took 0.00s
+[2021.12.11-22.23.34:752][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/BlueprintMultiplayer 4.27/Content/Collections/' took 0.00s
+[2021.12.11-22.23.34:774][  0]LogOcInput: OculusInput pre-init called
+[2021.12.11-22.23.34:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.12.11-22.23.34:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.12.11-22.23.34:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.12.11-22.23.34:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.12.11-22.23.34:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.12.11-22.23.34:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.12.11-22.23.34:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.12.11-22.23.34:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.12.11-22.23.34:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.12.11-22.23.34:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.12.11-22.23.34:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.12.11-22.23.34:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.12.11-22.23.34:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.12.11-22.23.34:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.12.11-22.23.34:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.12.11-22.23.34:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.12.11-22.23.34:937][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.34:937][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.35:069][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.12.11-22.23.35:069][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.12.11-22.23.35:069][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.12.11-22.23.35:069][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.12.11-22.23.35:069][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.12.11-22.23.35:069][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.12.11-22.23.35:069][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.12.11-22.23.35:069][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.12.11-22.23.35:069][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.12.11-22.23.35:069][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.12.11-22.23.35:069][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.12.11-22.23.35:069][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.12.11-22.23.35:069][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.12.11-22.23.35:069][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.12.11-22.23.35:069][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.12.11-22.23.35:069][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.12.11-22.23.35:069][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.35:069][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.35:247][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.12.11-22.23.35:247][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.12.11-22.23.35:247][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.12.11-22.23.35:247][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.12.11-22.23.35:247][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.12.11-22.23.35:247][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.12.11-22.23.35:247][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.12.11-22.23.35:247][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.12.11-22.23.35:247][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.12.11-22.23.35:247][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.12.11-22.23.35:247][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.12.11-22.23.35:247][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.12.11-22.23.35:247][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.12.11-22.23.35:247][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.12.11-22.23.35:247][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.12.11-22.23.35:247][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.12.11-22.23.35:247][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.35:247][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.35:247][  0]LogClass: Display: Int8Property FMTSJson::version is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: Int16Property FMTSJson::resolutionValue is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: BoolProperty FMTSJson::isExternal is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: Int8Property FMTSJson::meshVersion is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: BoolProperty FMTSJson::isCustom is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: BoolProperty FMTSJson::isModularAsset is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: Int8Property FLodList::variation is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: Int16Property FMeshList::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: Int16Property FComponents::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: BoolProperty FTextureSets::isUdim is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: BoolProperty FMeta::value is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.12.11-22.23.35:247][  0]LogClass: Display: 11 Uninitialized script struct members found including 0 object properties
+[2021.12.11-22.23.35:247][  0]LogAutomationTest: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.12.11-22.23.35:248][  0]LogAutomationTest: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.12.11-22.23.35:248][  0]LogAutomationTest: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.12.11-22.23.35:248][  0]LogAutomationTest: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.12.11-22.23.35:248][  0]LogAutomationTest: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.12.11-22.23.35:248][  0]LogAutomationTest: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.12.11-22.23.35:248][  0]LogAutomationTest: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.12.11-22.23.35:248][  0]LogAutomationTest: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.12.11-22.23.35:248][  0]LogAutomationTest: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.35:248][  0]LogAutomationTest: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.35:248][  0]LogEngine: Initializing Engine...
+[2021.12.11-22.23.35:286][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.12.11-22.23.35:287][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.11-22.23.35:287][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.11-22.23.35:287][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.11-22.23.35:419][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.11-22.23.35:426][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.11-22.23.35:442][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.11-22.23.35:445][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.11-22.23.35:445][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.11-22.23.35:445][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.11-22.23.35:445][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.11-22.23.35:445][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.11-22.23.35:445][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.11-22.23.35:445][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.11-22.23.35:445][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.11-22.23.35:445][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.11-22.23.35:445][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.11-22.23.35:445][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.11-22.23.35:445][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.11-22.23.35:445][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.11-22.23.35:445][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.11-22.23.35:445][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.11-22.23.35:445][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.11-22.23.35:456][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.11-22.23.35:456][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.11-22.23.35:467][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.12.11-22.23.35:472][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.11-22.23.35:474][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.11-22.23.35:474][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.11-22.23.35:475][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.11-22.23.35:475][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.11-22.23.35:475][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.11-22.23.35:475][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.11-22.23.35:475][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.11-22.23.35:476][  0]LogInit: FAudioDevice initialized.
+[2021.12.11-22.23.35:476][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.11-22.23.35:476][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.11-22.23.35:517][  0]LogDerivedDataCache: Saved boot cache 0.04s 95MB C:/Users/Isaac/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.11-22.23.35:517][  0]LogInit: Texture streaming: Enabled
+[2021.12.11-22.23.35:527][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.12.11-22.23.35:529][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.11-22.23.35:529][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.11-22.23.35:531][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.11-22.23.36:357][  0]LogInit: Transaction tracking system initialized
+[2021.12.11-22.23.36:373][  0]BlueprintLog: New page: Editor Load
+[2021.12.11-22.23.36:420][  0]LocalizationService: Localization service is disabled
+[2021.12.11-22.23.36:474][  0]TimingProfiler: Initialize
+[2021.12.11-22.23.36:475][  0]TimingProfiler: OnSessionChanged
+[2021.12.11-22.23.36:475][  0]LoadingProfiler: Initialize
+[2021.12.11-22.23.36:475][  0]LoadingProfiler: OnSessionChanged
+[2021.12.11-22.23.36:475][  0]NetworkingProfiler: Initialize
+[2021.12.11-22.23.36:475][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.11-22.23.36:475][  0]MemoryProfiler: Initialize
+[2021.12.11-22.23.36:476][  0]MemoryProfiler: OnSessionChanged
+[2021.12.11-22.23.36:481][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.12.11-22.23.36:481][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.12.11-22.23.36:648][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.11-22.23.36:648][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.11-22.23.36:797][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/BlueprintMultiplayer 4.27/Content/' took 0.00s
+[2021.12.11-22.23.36:911][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.12.11-22.23.36:911][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.12.11-22.23.36:911][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.12.11-22.23.36:911][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.12.11-22.23.36:911][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.12.11-22.23.36:911][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.12.11-22.23.36:911][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.12.11-22.23.36:911][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.12.11-22.23.36:911][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.12.11-22.23.36:911][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.12.11-22.23.36:911][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.12.11-22.23.36:911][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.12.11-22.23.36:911][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.12.11-22.23.36:911][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.12.11-22.23.36:911][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.12.11-22.23.36:911][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.12.11-22.23.36:911][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.36:911][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.11-22.23.36:991][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.11-22.23.36:994][  0]SourceControl: Source control is disabled
+[2021.12.11-22.23.36:994][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.253
+[2021.12.11-22.23.36:994][  0]Cmd: MAP LOAD FILE="E:/UnrealProjects/BlueprintMultiplayer 4.27/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.11-22.23.36:995][  0]LightingResults: New page: Lighting Build
+[2021.12.11-22.23.36:996][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-22.23.36:996][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-22.23.36:996][  0]MapCheck: New page: Map Check
+[2021.12.11-22.23.36:996][  0]LightingResults: New page: Lighting Build
+[2021.12.11-22.23.37:000][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.11-22.23.37:003][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.11-22.23.37:111][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.12.11-22.23.37:112][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.12.11-22.23.37:113][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.11-22.23.37:119][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.12.11-22.23.37:119][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.11-22.23.37:119][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2021.12.11-22.23.37:119][  0]LogFileHelpers: Loading map 'MainMenu' took 0.125
+[2021.12.11-22.23.37:121][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.379
+[2021.12.11-22.23.37:282][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-22.23.37:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-22.23.37:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-22.23.37:299][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-22.23.37:334][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3836 classes and 939 folders.
+[2021.12.11-22.23.37:340][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.11-22.23.37:349][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.11-22.23.37:349][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:349][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.11-22.23.37:349][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:350][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.11-22.23.37:350][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.12.11-22.23.37:356][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.11-22.23.37:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.11-22.23.37:356][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:356][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.11-22.23.37:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.11-22.23.37:361][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.11-22.23.37:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.11-22.23.37:361][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:361][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.11-22.23.37:361][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.12.11-22.23.37:366][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.11-22.23.37:366][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:366][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.11-22.23.37:366][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:366][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.11-22.23.37:366][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.11-22.23.37:371][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.11-22.23.37:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.11-22.23.37:371][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:371][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.11-22.23.37:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.12.11-22.23.37:376][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.11-22.23.37:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.11-22.23.37:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.11-22.23.37:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.11-22.23.37:381][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.11-22.23.37:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.11-22.23.37:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.11-22.23.37:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.11-22.23.37:386][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.11-22.23.37:386][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:386][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.11-22.23.37:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.11-22.23.37:386][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.11-22.23.37:391][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.11-22.23.37:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.11-22.23.37:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.11-22.23.37:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.12.11-22.23.37:397][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.11-22.23.37:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.11-22.23.37:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.11-22.23.37:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.11-22.23.37:401][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.11-22.23.37:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.11-22.23.37:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.11-22.23.37:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.12.11-22.23.37:405][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.11-22.23.37:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.11-22.23.37:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.11-22.23.37:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.11-22.23.37:410][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.11-22.23.37:410][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.11-22.23.37:410][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:410][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.11-22.23.37:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.11-22.23.37:415][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.11-22.23.37:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.11-22.23.37:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.11-22.23.37:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.11-22.23.37:419][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.11-22.23.37:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.11-22.23.37:419][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:419][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.11-22.23.37:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.12.11-22.23.37:423][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.11-22.23.37:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.11-22.23.37:423][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:423][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.11-22.23.37:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.12.11-22.23.37:429][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.11-22.23.37:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.11-22.23.37:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.11-22.23.37:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.11-22.23.37:433][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.11-22.23.37:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.11-22.23.37:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.11-22.23.37:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.12.11-22.23.37:437][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.11-22.23.37:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.11-22.23.37:437][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:437][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.11-22.23.37:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.11-22.23.37:445][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.11-22.23.37:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.11-22.23.37:445][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:445][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.11-22.23.37:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.11-22.23.37:449][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.11-22.23.37:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.11-22.23.37:449][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:449][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.11-22.23.37:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.11-22.23.37:454][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.11-22.23.37:454][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:454][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.11-22.23.37:454][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:454][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.11-22.23.37:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.12.11-22.23.37:459][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.11-22.23.37:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.11-22.23.37:459][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:459][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.11-22.23.37:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.12.11-22.23.37:463][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.11-22.23.37:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.11-22.23.37:463][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:463][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.11-22.23.37:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.11-22.23.37:469][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.11-22.23.37:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.11-22.23.37:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.11-22.23.37:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.11-22.23.37:473][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.11-22.23.37:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.11-22.23.37:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.11-22.23.37:473][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.11-22.23.37:473][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.11-22.23.37:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.11-22.23.37:653][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.11-22.23.37:657][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.12.11-22.23.37:726][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.11-22.23.37:734][  0]LogSlate: Took 0.005606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.11-22.23.37:735][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.11-22.23.37:853][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2021.12.11-22.23.37:968][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.12.11-22.23.37:968][  0]LogInput: Warning: Action Jump uses invalid key MotionController_Left_Trigger.
+[2021.12.11-22.23.37:968][  0]LogInput: Warning: Action ResetVR uses invalid key MotionController_Left_Grip1.
+[2021.12.11-22.23.37:968][  0]LogInput: Warning: Action Jump uses invalid key MotionController_Right_Trigger.
+[2021.12.11-22.23.37:968][  0]LogInput: Warning: Action Jump uses invalid key OculusTouchpad_Touchpad.
+[2021.12.11-22.23.37:968][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.12.11-22.23.37:968][  0]LogLoad: (Engine Initialization) Total time: 10.23 seconds
+[2021.12.11-22.23.37:968][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.11-22.23.38:049][  0]LogAssetRegistry: Asset discovery search completed in 6.8527 seconds
+[2021.12.11-22.23.38:054][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.12.11-22.23.38:056][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.11-22.23.38:115][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/UnrealProjects/BlueprintMultiplayer 4.27/Content/' took 0.13s
+[2021.12.11-22.23.38:149][  2]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.11-22.24.53:385][996]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.11-22.24.53:393][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.11-22.24.53:395][996]PIE: New page: PIE session: MainMenu (11 Dec 2021, 22:24:53)
+[2021.12.11-22.24.53:396][996]LogOnline: OSS: Creating online subsystem instance for: Steam
+[2021.12.11-22.24.53:396][996]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2021.12.11-22.24.53:396][996]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.11-22.24.53:398][996]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.11-22.24.53:398][996]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.12.11-22.24.53:399][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000907s)
+[2021.12.11-22.24.53:400][996]LogAIModule: Creating AISystem for world MainMenu
+[2021.12.11-22.24.53:400][996]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2021.12.11-22.24.53:400][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002262s)
+[2021.12.11-22.24.53:405][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.11-22.24.53:406][996]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.11-22.24.53:406][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.11-22.24.53:406][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.11-22.24.53:406][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.11-22.24.53:406][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.11-22.24.53:406][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.11-22.24.53:406][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.11-22.24.53:406][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.11-22.24.53:406][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.11-22.24.53:406][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.11-22.24.53:406][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.11-22.24.53:406][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.11-22.24.53:406][996]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.11-22.24.53:410][996]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.11-22.24.53:410][996]LogAudioMixer: Display: 1: FrontRight
+[2021.12.11-22.24.53:415][996]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.12.11-22.24.53:415][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.11-22.24.53:415][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.11-22.24.53:415][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.11-22.24.53:416][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.11-22.24.53:416][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.11-22.24.53:416][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.11-22.24.53:417][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.11-22.24.53:417][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.11-22.24.53:417][996]LogInit: FAudioDevice initialized.
+[2021.12.11-22.24.53:417][996]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.12.11-22.24.53:529][996]LogTexture: Display: Building textures: UE4Man_Logo_N (OODLE_BC5, 512X512)
+[2021.12.11-22.24.53:529][996]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 37ABE31568B1ED6EDD5A9E6097DF4549E47427AB), compiling. 
+[2021.12.11-22.24.53:632][996]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2021.12.11-22.24.53:634][996]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 392FB25BA6CEDF416AAB3F8F98A959B59BA9311F), compiling. 
+[2021.12.11-22.24.53:692][996]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2021.12.11-22.24.53:692][996]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2021.12.11-22.24.53:692][996]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.24.53:692][996]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2021.12.11-22.24.53:696][996]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2021.12.11-22.24.53:770][996]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2021.12.11-22.24.53:772][996]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.11-22.24.53:775][996]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.12.11-22.24.53
+[2021.12.11-22.24.53:775][996]LogWorld: Bringing up level for play took: 0.000477
+[2021.12.11-22.24.53:775][996]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.12.11-22.24.53:783][996]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.12.11-22.24.53:795][996]PIE: Server logged in
+[2021.12.11-22.24.53:797][996]PIE: Play in editor total start time 0.406 seconds.
+[2021.12.11-22.24.56:030][213]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.11-22.24.56:030][213]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-22.24.57:052][336]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.12.11-22.24.57:052][336]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-22.24.57:955][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.12.11-22.24.57:955][444]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-22.24.58:147][467]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 144
+[2021.12.11-22.24.58:147][467]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.24.58:245][479]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 134
+[2021.12.11-22.24.58:245][479]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.24.59:881][674]LogNet: Browse: /Game/Maps/Lobby?listen
+[2021.12.11-22.24.59:881][674]LogLoad: LoadMap: /Game/Maps/Lobby?listen
+[2021.12.11-22.24.59:881][674]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.12.11-22.24.59:881][674]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-22.24.59:881][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-22.24.59:920][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.11-22.24.59:922][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.12.11-22.25.00:363][674]LogTexture: Display: Building textures: T_CharM_Base_M (OODLE_AutoDXT, 1024X1024)
+[2021.12.11-22.25.00:363][674]LogTexture: Display: Building textures: T_CharM_Base_D (OODLE_DXT1, 1024X1024)
+[2021.12.11-22.25.00:363][674]LogTexture: Display: Building textures: T_CharM_Base_N (OODLE_BC5, 1024X1024)
+[2021.12.11-22.25.00:363][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.00:363][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.00:363][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.00:363][674]LogTexture: Display: Building textures: Arena_02 (OODLE_AutoDXT, 400X400)
+[2021.12.11-22.25.00:363][674]LogTexture: Display: Building textures: Warrior (OODLE_AutoDXT, 100X100)
+[2021.12.11-22.25.00:363][674]LogTexture: Display: Building textures: Arena_01 (OODLE_AutoDXT, 400X400)
+[2021.12.11-22.25.00:363][674]LogTexture: Display: Building textures: Tusk (OODLE_AutoDXT, 100X100)
+[2021.12.11-22.25.00:363][674]LogTexture: Display: Building textures: Robo (OODLE_AutoDXT, 100X100)
+[2021.12.11-22.25.00:363][674]LogTexture: Display: Building textures: Pit (OODLE_AutoDXT, 100X100)
+[2021.12.11-22.25.00:363][674]LogMaterial: Display: Missing cached shadermap for M_CharM_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 20EF3B4D45BB87D3B0651BB5C1B6C1C522C562E2), compiling. 
+[2021.12.11-22.25.00:396][674]LogTexture: Display: Building textures: Natural (OODLE_AutoDXT, 100X100)
+[2021.12.11-22.25.00:396][674]LogTexture: Display: Building textures: Frosty (OODLE_AutoDXT, 100X100)
+[2021.12.11-22.25.00:396][674]LogTexture: Display: Building textures: Forge (OODLE_AutoDXT, 100X100)
+[2021.12.11-22.25.00:396][674]LogTexture: Display: Building textures: Barbarous (OODLE_AutoDXT, 100X100)
+[2021.12.11-22.25.00:396][674]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-22.25.00:398][674]LogTexture: Display: Building textures: T_CharM_Barbarous_D (OODLE_DXT1, 2048X2048)
+[2021.12.11-22.25.00:398][674]LogSkeletalMesh: Building Skeletal Mesh sk_CharM_Base...
+[2021.12.11-22.25.00:400][674]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PMs/Character/CompleteCharacters/sk_CharM_Base.sk_CharM_Base
+[2021.12.11-22.25.00:608][674]LogTexture: Display: Building textures: T_CharM_WarriorB_Mask (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.00:608][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.00:608][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.00:608][674]LogTexture: Display: Building textures: T_CharM_Barbarous_N (OODLE_BC5, 2048X2048)
+[2021.12.11-22.25.00:862][674]LogTexture: Display: Building textures: T_CharM_Warrior_N (OODLE_BC5, 2048X2048)
+[2021.12.11-22.25.00:862][674]LogTexture: Display: Building textures: T_CharM_WarriorB_D (OODLE_DXT1, 2048X2048)
+[2021.12.11-22.25.00:862][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.00:980][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.00:980][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.00:980][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.01:530][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:531][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.01:531][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:531][674]LogTexture: Display: Building textures: T_CharM_Warrior_JewelMask (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.01:531][674]LogTexture: Display: Building textures: T_CharM_Tusk_N (OODLE_BC5, 1024X1024)
+[2021.12.11-22.25.01:531][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:531][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.01:531][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:531][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:531][674]LogTexture: Display: Building textures: T_CharM_Tusk_E (OODLE_DXT1, 1024X1024)
+[2021.12.11-22.25.01:531][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:531][674]LogTexture: Display: Building textures: T_CharM_Barbarous_MetalMask (OODLE_DXT1, 2048X2048)
+[2021.12.11-22.25.01:613][674]LogTexture: Display: Building textures: T_CharM_Tusk_Mask (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.01:613][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:652][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:652][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:753][674]LogTexture: Display: Building textures: T_CharM_Robo_Mask (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.01:753][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:753][674]LogMaterial: Display: Missing cached shadermap for M_Char_Barbrous in PCD3D_SM5, Default, SM5 (DDC key hash: 725531EA93CB5FB79A9039F4D1AF5440598E7F05), compiling. 
+[2021.12.11-22.25.01:783][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:783][674]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-22.25.01:791][674]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Barbarous...
+[2021.12.11-22.25.01:795][674]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PMs/Character/CompleteCharacters/SK_CharM_Barbarous.SK_CharM_Barbarous
+[2021.12.11-22.25.01:798][674]LogMaterial: Display: Missing cached shadermap for M_Char_Warrior_B in PCD3D_SM5, Default, SM5 (DDC key hash: 88D64BE68113B3258D9F4742E6292DC3CA39081A), compiling. 
+[2021.12.11-22.25.01:871][674]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-22.25.01:872][674]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Warrior...
+[2021.12.11-22.25.01:875][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.01:875][674]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PMs/Character/CompleteCharacters/SK_CharM_Warrior.SK_CharM_Warrior
+[2021.12.11-22.25.02:827][674]LogTexture: Display: Building textures: T_CharM_Robo_D (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.02:827][674]LogTexture: Display: Building textures: T_CharM_Tusk_D (OODLE_DXT1, 2048X2048)
+[2021.12.11-22.25.02:827][674]LogTexture: Display: Building textures: T_CharM_Pit_Mask (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.02:827][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.02:827][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.02:827][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.11-22.25.02:827][674]LogTexture: Display: Building textures: T_CharM_Robo_N (OODLE_BC5, 2048X2048)
+[2021.12.11-22.25.02:827][674]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 220
+[2021.12.11-22.25.02:827][674]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.02:827][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.02:827][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.02:827][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.02:827][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.11-22.25.02:827][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.02:827][674]LogMaterial: Display: Missing cached shadermap for M_Char_Tusk in PCD3D_SM5, Default, SM5 (DDC key hash: 12942A0FF5D5901A4022018A3682B53C53414DB9), compiling. 
+[2021.12.11-22.25.02:856][674]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-22.25.02:858][674]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Tusk...
+[2021.12.11-22.25.02:861][674]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PMs/Character/CompleteCharacters/SK_CharM_Tusk.SK_CharM_Tusk
+[2021.12.11-22.25.02:868][674]LogMaterial: Display: Missing cached shadermap for M_Char_Robo in PCD3D_SM5, Default, SM5 (DDC key hash: 379E3D6AC885D31B4CE44B2CDB60C08AC0E9E9A7), compiling. 
+[2021.12.11-22.25.02:955][674]LogTexture: Display: Building textures: T_CharM_Natural_Mask (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.02:955][674]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-22.25.02:956][674]LogSkeletalMesh: Display: [AssetLog] E:\UnrealProjects\BlueprintMultiplayer 4.27\Content\PMs\Character\CompleteCharacters\SK_CharM_Robo.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.12.11-22.25.02:957][674]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Robo...
+[2021.12.11-22.25.02:962][674]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PMs/Character/CompleteCharacters/SK_CharM_Robo.SK_CharM_Robo
+[2021.12.11-22.25.04:158][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.04:158][674]LogTexture: Display: Building textures: T_CharM_Natural_N (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.04:158][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.04:158][674]LogTexture: Display: Building textures: T_CharM_Pit_N (OODLE_BC5, 2048X2048)
+[2021.12.11-22.25.04:158][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.04:158][674]LogTexture: Display: Building textures: T_CharM_Pit_D (OODLE_DXT1, 2048X2048)
+[2021.12.11-22.25.04:158][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.04:158][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.04:158][674]LogTexture: Display: Building textures: T_CharM_Natural_D (OODLE_DXT1, 2048X2048)
+[2021.12.11-22.25.04:158][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.04:158][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.04:158][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.04:158][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.04:158][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.04:158][674]LogTexture: Display: Building textures: T_Char_M_FrostGiant_Masks (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.04:158][674]LogMaterial: Display: Missing cached shadermap for M_Char_Pit in PCD3D_SM5, Default, SM5 (DDC key hash: 5C0F0F29EB34EBD4E3E39AF069D1C5103B5F5C02), compiling. 
+[2021.12.11-22.25.04:189][674]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-22.25.04:190][674]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Pit...
+[2021.12.11-22.25.04:192][674]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PMs/Character/CompleteCharacters/SK_CharM_Pit.SK_CharM_Pit
+[2021.12.11-22.25.04:209][674]LogMaterial: Display: Missing cached shadermap for M_Char_Natural in PCD3D_SM5, Default, SM5 (DDC key hash: 8FBA6BF0A90DA8F764A260329F3D388EFF07E356), compiling. 
+[2021.12.11-22.25.04:239][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.04:239][674]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-22.25.04:240][674]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Natural...
+[2021.12.11-22.25.04:243][674]LogTexture: Display: Building textures: T_Char_M_FrostGiant_MaterialMask (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.04:243][674]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PMs/Character/CompleteCharacters/SK_CharM_Natural.SK_CharM_Natural
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTexture: Display: Building textures: T_Char_M_FrostGiant_D (OODLE_DXT1, 2048X2048)
+[2021.12.11-22.25.05:420][674]LogTexture: Display: Building textures: T_Char_M_FrostGiant_N (OODLE_BC5, 2048X2048)
+[2021.12.11-22.25.05:420][674]LogTexture: Display: Building textures: CharM_Forge_MetalMask (OODLE_AutoDXT, 2048X2048)
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTexture: Display: Building textures: CharM_Forge_D (OODLE_DXT1, 2048X2048)
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTexture: Display: Building textures: CharM_Forge_N (OODLE_BC5, 2048X2048)
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.11-22.25.05:420][674]LogMaterial: Display: Missing cached shadermap for M_Char_FrostGiant in PCD3D_SM5, Default, SM5 (DDC key hash: 77BD2C9054FD3AF725935D4783F170D8891975FF), compiling. 
+[2021.12.11-22.25.05:452][674]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-22.25.05:453][674]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_FrostGiant...
+[2021.12.11-22.25.05:459][674]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PMs/Character/CompleteCharacters/SK_CharM_FrostGiant.SK_CharM_FrostGiant
+[2021.12.11-22.25.05:494][674]LogMaterial: Display: Missing cached shadermap for M_Char_Forge in PCD3D_SM5, Default, SM5 (DDC key hash: B1AE6E9729E4B6DA3D96BA6FD0D7B49E3C7F7E0A), compiling. 
+[2021.12.11-22.25.05:520][674]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.12.11-22.25.05:521][674]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Forge...
+[2021.12.11-22.25.05:524][674]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PMs/Character/CompleteCharacters/SK_CharM_Forge.SK_CharM_Forge
+[2021.12.11-22.25.05:530][674]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PMs/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2021.12.11-22.25.05:530][674]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PMs/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2021.12.11-22.25.05:530][674]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.12.11-22.25.05:541][674]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lobby'.
+[2021.12.11-22.25.05:542][674]LogAIModule: Creating AISystem for world Lobby
+[2021.12.11-22.25.05:545][674]LogLoad: Game class is 'LobbyGM_C'
+[2021.12.11-22.25.05:548][674]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.12.11-22.25.05:549][674]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.12.11-22.25.05:549][674]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.12.11-22.25.05:550][674]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.12.11-22.25.05:550][674]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.12.11-22.25.05:551][674]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2021.12.11-22.25.05:553][674]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2021.12.11-22.25.05
+[2021.12.11-22.25.05:553][674]LogWorld: Bringing up level for play took: 0.001577
+[2021.12.11-22.25.05:567][674]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.12.11-22.25.05:567][674]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.12.11-22.25.05:567][674]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.12.11-22.25.05:572][674]LogLoad: Took 5.690609 seconds to LoadMap(/Game/Maps/Lobby)
+[2021.12.11-22.25.05:592][675]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.11-22.25.05:592][675]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-22.25.05:594][675]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PMs/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2021.12.11-22.25.05:594][675]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PMs/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2021.12.11-22.25.05:594][675]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.72, Realtime: 0.02. IpNetDriver_0
+[2021.12.11-22.25.05:679][676]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PMs/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2021.12.11-22.25.05:679][676]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PMs/Animations/ThirdPersonRun.ThirdPersonRun
+[2021.12.11-22.25.06:364][743]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 400
+[2021.12.11-22.25.06:364][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.07:754][909]PIE: Warning: CharacterSelect
+[2021.12.11-22.25.08:144][956]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 390
+[2021.12.11-22.25.08:144][956]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.09:303][ 95]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.11-22.25.09:303][ 95]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.11-22.25.09:863][162]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 378
+[2021.12.11-22.25.09:863][162]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.11:061][304]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 368
+[2021.12.11-22.25.11:061][304]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.12:756][507]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 358
+[2021.12.11-22.25.12:756][507]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.13:949][650]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 348
+[2021.12.11-22.25.13:949][650]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.16:092][906]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 338
+[2021.12.11-22.25.16:092][906]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.16:539][954]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2021.12.11-22.25.16:539][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-22.25.16:539][954]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lobby
+[2021.12.11-22.25.16:540][954]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-22.25.16:540][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-22.25.16:547][954]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.12.11-22.25.16:547][954]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.12.11-22.25.16:547][954]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.12.11-22.25.16:548][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.11-22.25.16:551][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-22.25.16:556][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-22.25.16:558][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.11-22.25.16:559][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.11-22.25.16:565][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.12.11-22.25.16:661][954]LogSlate: Took 0.006276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.11-22.25.16:663][955]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.12.11-22.25.16:770][957]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 328
+[2021.12.11-22.25.16:770][957]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.18:856][183]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 318
+[2021.12.11-22.25.18:856][183]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.19:874][305]LogSlate: Window 'Message Log' being destroyed
+[2021.12.11-22.25.19:877][305]LogSlate: Window 'Message Log' being destroyed
+[2021.12.11-22.25.20:107][333]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 308
+[2021.12.11-22.25.20:107][333]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.21:176][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 298
+[2021.12.11-22.25.21:176][457]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.22:566][620]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 288
+[2021.12.11-22.25.22:566][620]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.24:172][812]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 278
+[2021.12.11-22.25.24:173][812]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.24:627][866]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 268
+[2021.12.11-22.25.24:627][866]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.26:678][101]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 258
+[2021.12.11-22.25.26:678][101]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.27:624][214]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 248
+[2021.12.11-22.25.27:624][214]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.28:930][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 238
+[2021.12.11-22.25.28:930][369]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.29:870][482]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 228
+[2021.12.11-22.25.29:870][482]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.31:673][697]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 218
+[2021.12.11-22.25.31:673][697]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.32:077][745]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 208
+[2021.12.11-22.25.32:077][745]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.33:958][970]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 198
+[2021.12.11-22.25.33:958][970]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.34:521][ 37]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 188
+[2021.12.11-22.25.34:521][ 37]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.36:435][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 178
+[2021.12.11-22.25.36:435][266]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.37:017][336]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 168
+[2021.12.11-22.25.37:017][336]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.39:211][598]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 158
+[2021.12.11-22.25.39:211][598]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.39:349][614]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 148
+[2021.12.11-22.25.39:349][614]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.41:571][879]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 138
+[2021.12.11-22.25.41:571][879]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.42:167][950]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 128
+[2021.12.11-22.25.42:168][950]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.43:603][119]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 118
+[2021.12.11-22.25.43:603][119]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.44:470][223]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 108
+[2021.12.11-22.25.44:470][223]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.45:506][344]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 98
+[2021.12.11-22.25.45:506][344]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.46:346][444]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 88
+[2021.12.11-22.25.46:346][444]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.47:531][582]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 78
+[2021.12.11-22.25.47:531][582]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.47:886][624]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 68
+[2021.12.11-22.25.47:886][624]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.49:081][767]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2021.12.11-22.25.49:081][767]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.49:643][833]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2021.12.11-22.25.49:643][833]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.51:240][ 24]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.12.11-22.25.51:240][ 24]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.51:277][ 28]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.12.11-22.25.51:277][ 28]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.52:923][217]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.12.11-22.25.52:923][217]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.53:469][282]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.11-22.25.53:470][282]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.54:131][361]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.11-22.25.54:131][361]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.25.54:523][408]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.11-22.25.54:523][408]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.11-22.26.39:929][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.12.11-22.26.40:496][692]LogSlate: Window 'BlueprintMultiplayer - Unreal Editor' being destroyed
+[2021.12.11-22.26.40:590][693]Cmd: QUIT_EDITOR
+[2021.12.11-22.26.40:590][693]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.12.11-22.26.40:593][693]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.12.11-22.26.40:878][693]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.12.11-22.26.40:878][693]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.12.11-22.26.40:878][693]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2021.12.11-22.26.40:878][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.11-22.26.40:880][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.11-22.26.40:886][693]LogAudio: Display: Audio Device Manager Shutdown
+[2021.12.11-22.26.40:886][693]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.11-22.26.40:895][693]LogExit: Preparing to exit.
+[2021.12.11-22.26.41:490][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.11-22.26.41:722][693]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.12.11-22.26.41:766][693]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-22.26.41:766][693]LogExit: Editor shut down
+[2021.12.11-22.26.41:766][693]LogExit: Transaction tracking system shut down
+[2021.12.11-22.26.43:418][693]LogExit: Object subsystem successfully closed.
+[2021.12.11-22.26.43:428][693]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.11-22.26.43:428][693]LogShaderCompilers: Display: Total job queries 464, among them cache hits 0 (0.00%)
+[2021.12.11-22.26.43:428][693]LogShaderCompilers: Display: Tracking 464 distinct input hashes that result in 317 distinct outputs (68.32%)
+[2021.12.11-22.26.43:428][693]LogShaderCompilers: Display: RAM used: 1.76 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.21%
+[2021.12.11-22.26.43:428][693]LogShaderCompilers: Display: ================================================
+[2021.12.11-22.26.43:435][693]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.12.11-22.26.43:462][693]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (888)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module Voice (886)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (884)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module SceneOutliner (882)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module AddContentDialog (880)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module WidgetCarousel (879)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module EditorWidgets (876)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module StatsViewer (874)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (870)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module AutomationWorker (868)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module SteamVREditor (866)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module OculusMR (864)
+[2021.12.11-22.26.43:463][693]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (862)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module TakeRecorder (861)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (858)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module TakesCore (856)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module OpenXRInput (854)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module GooglePADEditor (852)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (850)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (848)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (846)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (844)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (842)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (840)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (838)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (836)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (834)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module WebMMedia (832)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (830)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (828)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module SequenceRecorder (827)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (824)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (822)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (820)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (818)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (816)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (814)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (812)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (810)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (808)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (806)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module PlanarCut (804)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module CharacterAI (802)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module TextureAlignMode (800)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module BspMode (798)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module GeometryMode (796)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (794)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module SmartSnapping (792)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module SessionServices (790)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module MeshPaint (788)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (786)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module FoliageEdit (784)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module LandscapeEditor (782)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module MeshPaintMode (780)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (778)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module ActorPickerMode (776)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module PlacementMode (774)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module ViewportSnapping (772)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module ViewportInteraction (770)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module ClothPainter (768)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (767)
+[2021.12.11-22.26.43:464][693]LogModuleManager: Shutting down and abandoning module LogVisualizer (764)
+[2021.12.11-22.26.43:465][693]LogModuleManager: Shutting down and abandoning module IntroTutorials (762)
+[2021.12.11-22.26.43:465][693]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (761)
+[2021.12.11-22.26.43:465][693]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (758)
+[2021.12.11-22.26.43:465][693]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (756)
+[2021.12.11-22.26.43:465][693]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (754)
+[2021.12.11-22.26.43:465][693]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (753)
+[2021.12.11-22.26.43:604][693]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (750)
+[2021.12.11-22.26.43:604][693]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (748)
+[2021.12.11-22.26.43:604][693]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (746)
+[2021.12.11-22.26.43:604][693]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (744)
+[2021.12.11-22.26.43:604][693]LogModuleManager: Shutting down and abandoning module TraceInsights (742)
+[2021.12.11-22.26.43:604][693]MemoryProfiler: Shutdown
+[2021.12.11-22.26.43:604][693]NetworkingProfiler: Shutdown
+[2021.12.11-22.26.43:604][693]LoadingProfiler: Shutdown
+[2021.12.11-22.26.43:604][693]TimingProfiler: Shutdown
+[2021.12.11-22.26.43:604][693]LogModuleManager: Shutting down and abandoning module TraceServices (741)
+[2021.12.11-22.26.43:604][693]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (738)
+[2021.12.11-22.26.43:604][693]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (736)
+[2021.12.11-22.26.43:604][693]LogModuleManager: Shutting down and abandoning module InputBindingEditor (734)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module MergeActors (732)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (730)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module LocalizationService (729)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module HardwareTargeting (726)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (724)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module UndoHistory (722)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module XmlParser (720)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module Blutility (718)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (716)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (715)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (712)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (711)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module SettingsEditor (708)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module ProjectLauncher (706)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module SessionFrontend (704)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module ProfilerClient (702)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module DeviceManager (700)
+[2021.12.11-22.26.43:605][693]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (699)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module AutomationController (696)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module AutomationWindow (694)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module Layers (692)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (690)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module DetailCustomizations (688)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module PackagesDialog (686)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (684)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module Persona (682)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (681)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module AnimGraph (679)
+[2021.12.11-22.26.43:639][693]LogModuleManager: Shutting down and abandoning module Kismet (676)
+[2021.12.11-22.26.43:640][693]LogModuleManager: Shutting down and abandoning module KismetWidgets (675)
+[2021.12.11-22.26.43:640][693]LogModuleManager: Shutting down and abandoning module GraphEditor (672)
+[2021.12.11-22.26.43:640][693]LogModuleManager: Shutting down and abandoning module StructViewer (670)
+[2021.12.11-22.26.43:640][693]LogModuleManager: Shutting down and abandoning module ClassViewer (668)
+[2021.12.11-22.26.43:640][693]LogModuleManager: Shutting down and abandoning module Toolbox (666)
+[2021.12.11-22.26.43:640][693]LogModuleManager: Shutting down and abandoning module ModuleUI (664)
+[2021.12.11-22.26.43:640][693]LogModuleManager: Shutting down and abandoning module OutputLog (662)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module GammaUI (660)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module Documentation (658)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module LiveCoding (656)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module LevelSequence (654)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (652)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module MovieScene (650)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (648)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module LauncherPlatform (646)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module AnalyticsET (644)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module PortalServices (642)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module PortalRpc (640)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module MessagingRpc (638)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (636)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module AudioMixerCore (635)
+[2021.12.11-22.26.43:641][693]LogModuleManager: Shutting down and abandoning module AIModule (632)
+[2021.12.11-22.26.43:642][693]LogModuleManager: Shutting down and abandoning module GameplayDebugger (631)
+[2021.12.11-22.26.43:642][693]LogModuleManager: Shutting down and abandoning module AITestSuite (629)
+[2021.12.11-22.26.43:642][693]LogModuleManager: Shutting down and abandoning module NavigationSystem (627)
+[2021.12.11-22.26.43:642][693]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (624)
+[2021.12.11-22.26.43:649][693]LogModuleManager: Shutting down and abandoning module ProfilerService (622)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module TaskGraph (620)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (618)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module MegascansPlugin (616)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module OculusEditor (614)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module OculusInput (612)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module SQLiteSupport (610)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module DatabaseSupport (608)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (606)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (604)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (602)
+[2021.12.11-22.26.43:774][693]LogModuleManager: Shutting down and abandoning module CollectionManager (601)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module TakeSequencer (598)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module TakeMovieScene (596)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module ScreenshotTools (594)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module SynthesisEditor (592)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module Synthesis (590)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (588)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (586)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module OpenXREditor (584)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (582)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module GooglePAD (580)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module EditableMesh (578)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (576)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module CableComponent (574)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module AudioCapture (572)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (571)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module AssetTags (568)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (566)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (564)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module AppleImageUtils (562)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module AndroidPermission (560)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (558)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (556)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module TemplateSequence (554)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module MediaCompositing (552)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module ImgMedia (550)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (548)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (546)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (544)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (542)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (540)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (538)
+[2021.12.11-22.26.43:775][693]LogOpenImageDenoise: OIDN shutting down
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (536)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module MotoSynth (534)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module MeshConversion (532)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module DynamicMesh (530)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (528)
+[2021.12.11-22.26.43:775][693]LogModuleManager: Shutting down and abandoning module GeometricObjects (526)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (524)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (523)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (520)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (518)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (516)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (514)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (512)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (510)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (508)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (506)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (504)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module ChaosNiagara (502)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module FractureEditor (500)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (499)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (496)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (494)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module BackChannel (492)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module UObjectPlugin (486)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (484)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module AlembicImporter (482)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module AlembicLibrary (481)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module GeometryCache (480)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (479)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (474)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (472)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module PluginUtils (470)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (468)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module GitSourceControl (466)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module SourceControl (465)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (462)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (460)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (458)
+[2021.12.11-22.26.43:776][693]LogModuleManager: Shutting down and abandoning module PluginBrowser (456)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (454)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (452)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (450)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module CurveEditorTools (448)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (446)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module CryptoKeys (444)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (442)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module GameplayCameras (440)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (438)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (436)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (434)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (432)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (430)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (428)
+[2021.12.11-22.26.43:777][693]LogModuleManager: Shutting down and abandoning module LiveLink (426)
+[2021.12.11-22.26.44:573][693]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (424)
+[2021.12.11-22.26.44:573][693]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (422)
+[2021.12.11-22.26.44:573][693]LogModuleManager: Shutting down and abandoning module Paper2DEditor (420)
+[2021.12.11-22.26.44:573][693]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (418)
+[2021.12.11-22.26.44:573][693]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (416)
+[2021.12.11-22.26.44:573][693]LogModuleManager: Shutting down and abandoning module SQLiteCore (414)
+[2021.12.11-22.26.44:573][693]LogModuleManager: Shutting down and abandoning module SoundFields (412)
+[2021.12.11-22.26.44:573][693]LogModuleManager: Shutting down and abandoning module SignificanceManager (410)
+[2021.12.11-22.26.44:574][693]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (408)
+[2021.12.11-22.26.44:574][693]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (406)
+[2021.12.11-22.26.44:574][693]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (404)
+[2021.12.11-22.26.44:574][693]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (400)
+[2021.12.11-22.26.44:574][693]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (398)
+[2021.12.11-22.26.44:574][693]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (396)
+[2021.12.11-22.26.44:574][693]LogModuleManager: Shutting down and abandoning module ActorSequence (394)
+[2021.12.11-22.26.44:574][693]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (392)
+[2021.12.11-22.26.44:574][693]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2021.12.11-22.26.44:675][693]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (386)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (384)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (382)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (380)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (378)
+[2021.12.11-22.26.44:775][693]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (376)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (374)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (372)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (370)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapController (368)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (366)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module MagicLeapAR (364)
+[2021.12.11-22.26.44:775][693]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (362)
+[2021.12.11-22.26.44:776][693]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (360)
+[2021.12.11-22.26.44:776][693]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2021.12.11-22.26.44:776][693]LogModuleManager: Shutting down and abandoning module SignalProcessing (357)
+[2021.12.11-22.26.44:776][693]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2021.12.11-22.26.44:776][693]LogModuleManager: Shutting down and abandoning module NiagaraCore (352)
+[2021.12.11-22.26.44:776][693]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (350)
+[2021.12.11-22.26.44:776][693]LogModuleManager: Shutting down and abandoning module AnimationSharing (348)
+[2021.12.11-22.26.44:776][693]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2021.12.11-22.26.44:777][693]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2021.12.11-22.26.44:777][693]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2021.12.11-22.26.44:777][693]LogModuleManager: Shutting down and abandoning module DataValidation (340)
+[2021.12.11-22.26.44:777][693]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (338)
+[2021.12.11-22.26.44:777][693]LogModuleManager: Shutting down and abandoning module LevelEditor (337)
+[2021.12.11-22.26.44:780][693]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (336)
+[2021.12.11-22.26.44:780][693]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (334)
+[2021.12.11-22.26.44:780][693]LogModuleManager: Shutting down and abandoning module MainFrame (332)
+[2021.12.11-22.26.44:780][693]LogModuleManager: Shutting down and abandoning module HotReload (331)
+[2021.12.11-22.26.44:781][693]LogModuleManager: Shutting down and abandoning module ToolMenus (327)
+[2021.12.11-22.26.44:781][693]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2021.12.11-22.26.44:781][693]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2021.12.11-22.26.44:781][693]LogModuleManager: Shutting down and abandoning module TreeMap (321)
+[2021.12.11-22.26.44:781][693]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (318)
+[2021.12.11-22.26.44:781][693]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (316)
+[2021.12.11-22.26.44:781][693]LogModuleManager: Shutting down and abandoning module Paper2D (314)
+[2021.12.11-22.26.44:782][693]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (312)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (310)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (308)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module PacketHandler (306)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (304)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (302)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module MediaAssets (300)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module Overlay (298)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module OverlayEditor (297)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module VREditor (294)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module StringTableEditor (292)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (290)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (288)
+[2021.12.11-22.26.44:784][693]LogModuleManager: Shutting down and abandoning module FunctionalTesting (286)
+[2021.12.11-22.26.44:785][693]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (284)
+[2021.12.11-22.26.44:785][693]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (283)
+[2021.12.11-22.26.44:785][693]LogModuleManager: Shutting down and abandoning module UMG (280)
+[2021.12.11-22.26.44:785][693]LogModuleManager: Shutting down and abandoning module UMGEditor (279)
+[2021.12.11-22.26.44:785][693]LogModuleManager: Shutting down and abandoning module MessageLog (277)
+[2021.12.11-22.26.44:785][693]LogModuleManager: Shutting down and abandoning module SlateReflector (272)
+[2021.12.11-22.26.44:786][693]LogModuleManager: Shutting down and abandoning module Slate (270)
+[2021.12.11-22.26.44:786][693]LogModuleManager: Shutting down and abandoning module SlateCore (268)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (266)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module UnrealEd (264)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module MRMesh (262)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (260)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (258)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module XAudio2 (256)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module Networking (254)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module Core (252)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module MaterialEditor (250)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module MovieSceneTools (248)
+[2021.12.11-22.26.44:789][693]LogModuleManager: Shutting down and abandoning module CurveEditor (247)
+[2021.12.11-22.26.44:790][693]LogModuleManager: Shutting down and abandoning module Sequencer (245)
+[2021.12.11-22.26.44:790][693]LogModuleManager: Shutting down and abandoning module EditorStyle (244)
+[2021.12.11-22.26.44:792][693]LogModuleManager: Shutting down and abandoning module KismetCompiler (240)
+[2021.12.11-22.26.44:792][693]LogModuleManager: Shutting down and abandoning module MeshBuilder (238)
+[2021.12.11-22.26.44:792][693]LogModuleManager: Shutting down and abandoning module MeshUtilities (236)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (235)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (234)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (233)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (231)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (229)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (227)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module MaterialBaking (223)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (218)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module DerivedDataCache (216)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module TargetPlatform (214)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (213)
+[2021.12.11-22.26.44:793][693]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (211)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (209)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (207)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (205)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (203)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (201)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (199)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (197)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (195)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (193)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (191)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module ImageWrapper (190)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (187)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (185)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (181)
+[2021.12.11-22.26.44:794][693]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (179)
+[2021.12.11-22.26.44:795][693]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2021.12.11-22.26.44:795][693]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (175)
+[2021.12.11-22.26.44:795][693]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (173)
+[2021.12.11-22.26.44:796][693]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (171)
+[2021.12.11-22.26.44:796][693]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (169)
+[2021.12.11-22.26.44:796][693]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (167)
+[2021.12.11-22.26.44:796][693]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (165)
+[2021.12.11-22.26.44:797][693]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (163)
+[2021.12.11-22.26.44:798][693]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (161)
+[2021.12.11-22.26.44:798][693]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (159)
+[2021.12.11-22.26.44:798][693]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (157)
+[2021.12.11-22.26.44:798][693]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (155)
+[2021.12.11-22.26.44:798][693]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (153)
+[2021.12.11-22.26.44:798][693]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (151)
+[2021.12.11-22.26.44:798][693]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (149)
+[2021.12.11-22.26.44:798][693]LogModuleManager: Shutting down and abandoning module Messaging (147)
+[2021.12.11-22.26.44:798][693]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (145)
+[2021.12.11-22.26.44:799][693]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (143)
+[2021.12.11-22.26.44:805][693]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (141)
+[2021.12.11-22.26.44:805][693]LogModuleManager: Shutting down and abandoning module D3D11RHI (138)
+[2021.12.11-22.26.44:805][693]LogModuleManager: Shutting down and abandoning module InputCore (136)
+[2021.12.11-22.26.44:805][693]LogModuleManager: Shutting down and abandoning module Settings (134)
+[2021.12.11-22.26.44:805][693]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (132)
+[2021.12.11-22.26.44:806][693]LogModuleManager: Shutting down and abandoning module PhysXCooking (130)
+[2021.12.11-22.26.44:806][693]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2021.12.11-22.26.44:806][693]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (126)
+[2021.12.11-22.26.44:806][693]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (125)
+[2021.12.11-22.26.44:806][693]LogModuleManager: Shutting down and abandoning module AVEncoder (124)
+[2021.12.11-22.26.44:806][693]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (120)
+[2021.12.11-22.26.44:806][693]LogModuleManager: Shutting down and abandoning module SteamVRInput (118)
+[2021.12.11-22.26.44:806][693]LogModuleManager: Shutting down and abandoning module SteamVR (116)
+[2021.12.11-22.26.44:806][693]LogHMD: Freeing OpenVRDLLHandle.
+[2021.12.11-22.26.44:806][693]LogModuleManager: Shutting down and abandoning module OculusHMD (114)
+[2021.12.11-22.26.44:806][693]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (112)
+[2021.12.11-22.26.44:808][693]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.12.11-22.26.44:808][693]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (110)
+[2021.12.11-22.26.44:808][693]LogModuleManager: Shutting down and abandoning module OpenXRAR (108)
+[2021.12.11-22.26.44:808][693]LogModuleManager: Shutting down and abandoning module AugmentedReality (107)
+[2021.12.11-22.26.44:808][693]LogModuleManager: Shutting down and abandoning module OpenXRHMD (104)
+[2021.12.11-22.26.44:809][693]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (102)
+[2021.12.11-22.26.44:809][693]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (98)
+[2021.12.11-22.26.44:810][693]LogModuleManager: Shutting down and abandoning module SteamShared (92)
+[2021.12.11-22.26.44:810][693]LogSteamShared: Freeing the Steam Loaded Modules...
+[2021.12.11-22.26.44:811][693]LogModuleManager: Shutting down and abandoning module XMPP (89)
+[2021.12.11-22.26.44:811][693]LogModuleManager: Shutting down and abandoning module WebSockets (88)
+[2021.12.11-22.26.44:841][693]LogModuleManager: Shutting down and abandoning module HTTP (85)
+[2021.12.11-22.26.44:841][693]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.12.11-22.26.44:841][693]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC8A6E54-41A4-D7C4-DC60-67B59B5EAB76%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=959650104f95da3de36660bab107032b%7Ce5ead79045e949fba83f6bc3f8ed6340%7Ceb3fe118-800e-4a38-a92f-822d2c80df45&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.12.11-22.26.44:841][693]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.12.11-22.26.44:858][693]LogModuleManager: Shutting down and abandoning module SSL (84)
+[2021.12.11-22.26.44:859][693]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
+[2021.12.11-22.26.44:859][693]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2021.12.11-22.26.44:859][693]LogModuleManager: Shutting down and abandoning module ChunkDownloader (76)
+[2021.12.11-22.26.44:859][693]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.12.11-22.26.44:861][693]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2021.12.11-22.26.44:862][693]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.12.11-22.26.44:863][693]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2021.12.11-22.26.44:864][693]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2021.12.11-22.26.44:864][693]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.12.11-22.26.44:864][693]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.12.11-22.26.44:864][693]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.12.11-22.26.44:864][693]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.12.11-22.26.44:864][693]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.12.11-22.26.44:864][693]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.12.11-22.26.44:864][693]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.12.11-22.26.44:864][693]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.12.11-22.26.44:864][693]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.12.11-22.26.44:865][693]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.12.11-22.26.44:865][693]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.12.11-22.26.44:865][693]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.12.11-22.26.44:865][693]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.12.11-22.26.44:865][693]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.12.11-22.26.44:865][693]LogD3D11RHI: Shutdown
+[2021.12.11-22.26.44:865][693]LogD3D11RHI: CleanupD3DDevice
+[2021.12.11-22.26.44:879][693]LogExit: Exiting.
+[2021.12.11-22.26.45:171][693]Log file closed, 12/11/21 22:26:45
